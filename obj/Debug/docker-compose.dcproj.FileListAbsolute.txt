@@ -1,0 +1,9 @@
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\bin\Debug\testMqtt.deps.json
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\bin\Debug\testMqtt.runtimeconfig.json
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\bin\Debug\testMqtt.exe
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\bin\Debug\testMqtt.dll
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\bin\Debug\MQTTnet.dll
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\bin\Debug\testMqtt.pdb
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\obj\Debug\docker-compose.dcproj.CopyComplete

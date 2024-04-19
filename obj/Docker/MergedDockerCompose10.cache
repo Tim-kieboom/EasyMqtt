@@ -1,0 +1,39 @@
+name: dockercompose16327501107466581896
+services:
+  mosquitto:
+    container_name: mosquitto
+    hostname: mosquitto
+    image: eclipse-mosquitto
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 8883
+      published: "8883"
+      protocol: tcp
+    - mode: ingress
+      target: 9001
+      published: "9001"
+      protocol: tcp
+    restart: unless-stopped
+    volumes:
+    - type: bind
+      source: C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\mosquitto
+      target: /etc/mosquitto
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\mosquitto\mosquitto.conf
+      target: /mosquitto/config/mosquitto.conf
+      bind:
+        create_host_path: true
+  testmqtt:
+    build:
+      context: C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt
+      dockerfile: testMqtt/Dockerfile
+    image: testmqtt
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose16327501107466581896_default

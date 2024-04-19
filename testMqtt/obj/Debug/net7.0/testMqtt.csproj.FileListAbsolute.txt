@@ -1,0 +1,17 @@
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\bin\Debug\net7.0\testMqtt.exe
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\bin\Debug\net7.0\testMqtt.deps.json
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\bin\Debug\net7.0\testMqtt.runtimeconfig.json
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\bin\Debug\net7.0\testMqtt.dll
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\bin\Debug\net7.0\testMqtt.pdb
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\testMqtt.csproj.AssemblyReference.cache
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\testMqtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\testMqtt.AssemblyInfoInputs.cache
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\testMqtt.AssemblyInfo.cs
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\testMqtt.csproj.CoreCompileInputs.cache
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\testMqtt.csproj.CopyComplete
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\testMqtt.dll
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\refint\testMqtt.dll
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\testMqtt.pdb
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\testMqtt.genruntimeconfig.cache
+C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt\testMqtt\obj\Debug\net7.0\ref\testMqtt.dll

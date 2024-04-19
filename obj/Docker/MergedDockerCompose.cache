@@ -1,0 +1,12 @@
+name: dockercompose16327501107466581896
+services:
+  testmqtt:
+    build:
+      context: C:\Users\tim_k\OneDrive\Bureaublad\tim\trainProgramming\c# shit\testMqtt
+      dockerfile: testMqtt/Dockerfile
+    image: testmqtt
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose16327501107466581896_default
